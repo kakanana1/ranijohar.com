@@ -177,14 +177,13 @@
               <option value=".pellentesque">Pent House Suite</option>
             </select>
             <a href="#" class="current wow fadeInRight" data-filter="*">Show all</a>
-            <a href="#" class="wow fadeInRight" data-wow-delay=".2s" data-filter=".vest-bulum">vest
-              bulum</a> <a href="#" class="wow fadeInRight" data-wow-delay=".4s"
+            <a href="#" class="wow fadeInRight" data-wow-delay=".2s" data-filter=".vest-bulum">Halton Hills</a> <a href="#" class="wow fadeInRight" data-wow-delay=".4s"
 
-              data-filter=".scelerisque">scelerisque</a> <a href="#" class="wow fadeInRight"
+              data-filter=".scelerisque">Home by the Ocean</a> <a href="#" class="wow fadeInRight"
 
-              data-wow-delay=".6s" data-filter=".malesuada">malesuada</a> <a href="#"
+              data-wow-delay=".6s" data-filter=".malesuada">Farm House</a> <a href="#"
 
-              class="wow fadeInRight" data-wow-delay=".8s" data-filter=".pellentesque">pellentesque</a>
+              class="wow fadeInRight" data-wow-delay=".8s" data-filter=".pellentesque">Pent House Suite</a>
           </div>
         </div>
         <div class="filterable-items">

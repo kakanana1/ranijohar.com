@@ -4,10 +4,9 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1">
-    <title>Travel Consultant</title>
+    <title>Rani Johar - Realtor</title>
     <!-- Loading third party fonts -->
-    <link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:300,400"
-
+    <link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:300,400"
       rel="stylesheet" type="text/css">
     <link href="fonts/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="fonts/lineo-icon/style.css" rel="stylesheet">
@@ -21,8 +20,7 @@
       <header class="site-header" data-bg-image="dummy/page-head-bg.jpg">
         <div class="container">
           <!-- Default snippet for navigation -->
-          <div class="main-navigation"> <button type="button" class="menu-toggle"><i
-
+          <div class="main-navigation"> <button type="button" class="menu-toggle"><i
                 class="fa fa-bars"></i></button>
             <ul class="menu">
               <li class="menu-item current-menu-item"><a href="index.html">Home</a></li>
@@ -39,16 +37,14 @@
             <h1 class="site-title">Rani Johar</h1>
             <small class="site-description">RealTOR</small> </div>
           <div class="social-links"> <a href="#"><i class="fa fa-facebook"></i></a>
-            <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a>
-            <a href="#"><i class="fa fa-pinterest"></i></a> </div>
+            <a href="https://www.linkedin.com/in/rani-johar-23524125/"><i class="fa fa-linkedin"></i></a>
+          </div>
         </div>
       </header>
       <main class="main-content">
         <div class="fullwidth-block" id="about">
           <div class="container">
-            <figure class="author-image"><img src="dummy/rani.jpg"
-
-                alt="Rani Johar"></figure>
+            <figure class="author-image"><img src="dummy/rani.jpg" alt="Rani Johar"></figure>
             <h2 class="section-title">About Me</h2>
             <h3 class="section-desc">Voluptatem accusanttium doloremque
               laudantium</h3>
@@ -83,7 +79,7 @@
               <div class="col-md-3">
                 <div class="feature">
                   <div class="feature-icon gradient"><i class="icon-search-building"></i></div>
-                  <h2 class="feature-title">Hotel Organizing</h2>
+                  <h2 class="feature-title">Home Search</h2>
                   <p>Perspiciatis unde omnis natus error voluptatem accusantium
                     totam ipsa quae ab illo inventore veritatis quasi.</p>
                 </div>
@@ -245,10 +241,8 @@
           <!-- .container --> </div>
         <!-- #experience -->
         <div class="fullwidth-block" id="package" data-bg-color="#555">
-          <div class="covervid-wrapper"> <video class="covervid-video" autoplay="autoplay"
-
-              loop="" poster="dummy/video-bg-fallback.jpg"> <source src="dummy/video-bg.webm"
-
+          <div class="covervid-wrapper"> <video class="covervid-video" autoplay="autoplay"
+              loop="" poster="dummy/video-bg-fallback.jpg"> <source src="dummy/video-bg.webm"
                 type="video/webm"> <source src="dummy/video-bg.ogg" type="video/ogg">
             </video> </div>
           <div class="container">
@@ -301,9 +295,8 @@
         <!-- #packages -->
         <div class="fullwidth-block" id="offers">
           <div class="container">
-            <h2 class="section-title">New Offers</h2>
-            <h3 class="section-desc">Curabitur iaculis nisi convallis
-              scelerisque</h3>
+            <h2 class="section-title">New listings</h2>
+            <h3 class="section-desc">below are some of my recent listings</h3>
             <div class="text-center">
               <div class="filter-links filterable-nav">
                 <select class="mobile-filter">
@@ -314,33 +307,25 @@
                   <option value=".pellentesque">pellentesque</option>
                 </select>
                 <a href="#" class="current wow fadeInRight" data-filter="*">Show
-                  all</a> <a href="#" class="wow fadeInRight" data-wow-delay=".2s"
-
-                  data-filter=".vest-bulum">vest bulum</a> <a href="#" class="wow fadeInRight"
-
+                  all</a> <a href="#" class="wow fadeInRight" data-wow-delay=".2s"
+                  data-filter=".vest-bulum">vest bulum</a> <a href="#" class="wow fadeInRight"
                   data-wow-delay=".4s" data-filter=".scelerisque">scelerisque</a>
                 <a href="#" class="wow fadeInRight" data-wow-delay=".6s" data-filter=".malesuada">malesuada</a>
                 <a href="#" class="wow fadeInRight" data-wow-delay=".8s" data-filter=".pellentesque">pellentesque</a>
               </div>
             </div>
             <div class="filterable-items">
-              <div class="gallery-item filterable-item vest-bulum"> <img src="dummy/offer-1.jpg"
-
+              <div class="gallery-item filterable-item vest-bulum"> <img src="dummy/offer-1.jpg"
                   alt="offer 1"> </div>
-              <div class="gallery-item filterable-item scelerisque"> <img src="dummy/offer-2.jpg"
-
+              <div class="gallery-item filterable-item scelerisque"> <img src="dummy/offer-2.jpg"
                   alt="offer 2"> </div>
-              <div class="gallery-item filterable-item malesuada"> <img src="dummy/offer-3.jpg"
-
+              <div class="gallery-item filterable-item malesuada"> <img src="dummy/offer-3.jpg"
                   alt="offer 3"> </div>
-              <div class="gallery-item filterable-item pellentesque"> <img src="dummy/offer-4.jpg"
-
+              <div class="gallery-item filterable-item pellentesque"> <img src="dummy/offer-4.jpg"
                   alt="offer 4"> </div>
-              <div class="gallery-item filterable-item malesuada"> <img src="dummy/offer-5.jpg"
-
+              <div class="gallery-item filterable-item malesuada"> <img src="dummy/offer-5.jpg"
                   alt="offer 5"> </div>
-              <div class="gallery-item filterable-item vest-bulum"> <img src="dummy/offer-6.jpg"
-
+              <div class="gallery-item filterable-item vest-bulum"> <img src="dummy/offer-6.jpg"
                   alt="offer 6"> </div>
             </div>
             <!-- .filterable-items --> </div>
@@ -350,17 +335,17 @@
           <div class="map"></div>
           <div class="container">
             <h2 class="section-title">Contact</h2>
-            <h3 class="section-desc">Donec vest bulum congue</h3>
+            <h3 class="section-desc">Feel free to get in touch with me</h3>
             <div class="row">
               <div class="col-md-4">
                 <div class="contact-detail">
-                  <h3>Company Name Inc</h3>
+                  <h3>Rani Johar - Right at Home Realty Inc</h3>
                   <ul>
-                    <li><img src="images/icon-map-marker.png" alt="" class="icon">9367
-                      Pingree Street</li>
+                    <li><img src="images/icon-map-marker.png" alt="" class="icon">480
+                      Eglinton Ave W, Mississauga, Ontario, L5R 0G2</li>
                     <li><img src="images/icon-phone.png" alt="" class="icon">+1
-                      490 983 391</li>
-                    <li><img src="images/icon-envelope.png" alt="" class="icon">contact@companyname.com</li>
+                      416 616 8336</li>
+                    <li><img src="images/icon-envelope.png" alt="" class="icon">ranijohar@gmail.com</li>
                   </ul>
                 </div>
                 <!-- .contact-detail --> </div>
@@ -368,8 +353,7 @@
                 <form action="" class="contact-form">
                   <div class="row">
                     <div class="col-md-6"> <input placeholder="Your name ..." type="text">
-                      <input placeholder="Company name ..." type="text"> <input
-
+                      <input placeholder="Company name ..." type="text"> <input
                         placeholder="Email ..." type="text"> </div>
                     <div class="col-md-6"> <textarea placeholder="Message"></textarea>
                       <input value="Send message" type="submit"> </div>
@@ -382,7 +366,7 @@
         <!-- #contact --> </main>
       <footer class="site-footer">
         <div class="container">
-          <p class="copy">Copyright 2014 Company name. Designed by Themezy. All
+          <p class="copy">Copyright 2020 Rani Johar. Designed by Themezy. All
             rights reserved</p>
         </div>
       </footer>

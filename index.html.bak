@@ -193,22 +193,26 @@
               class="wow fadeInRight" data-wow-delay=".8s" data-filter=".pellentesque">Pent
               House Suite</a> </div>
         </div>
-        <div class="filterable-items"> <div class="gallery-item filterable-item "> <img src="dummy/offer-1.jpg" alt="offer 1">
-          </div>        <div class="gallery-item filterable-item "> <img src="dummy/offer-2.jpg"
+        <div class="filterable-items">
+       <img src="dummy/offer-1.jpg" alt="offer 6"
 
-              alt="offer 2"> </div>
-          <div class="gallery-item filterable-item "> <img src="dummy/offer-3.jpg"
+              style="width: 250px; height: 144px;">
+          <img src="dummy/offer-2.jpg" alt="offer 6"
 
-              alt="offer 3"> </div>
-          <div class="gallery-item filterable-item "> <img src="dummy/offer-4.jpg"
+              style="width: 250px; height: 144px;">
+          <img src="dummy/offer-3.jpg" alt="offer 6"
 
-              alt="offer 4"> </div>
-          <div class="gallery-item filterable-item "> <img src="dummy/offer-5.jpg"
+              style="width: 250px; height: 144px;">
+          <img src="dummy/offer-4.jpg" alt="offer 6"
 
-              alt="offer 5"> </div>
-          <div class="gallery-item filterable-item "> <img
+              style="width: 250px; height: 144px;">
+          <img src="dummy/offer-5.jpg" alt="offer 6"
 
-              src="dummy/offer-6.jpg" alt="offer 6"> </div>
+              style="width: 250px; height: 144px;">
+          <img src="dummy/offer-6.jpg" alt="offer 6"
+
+              style="width: 250px; height: 144px;">
+          
         </div>
         <!-- .filterable-items --> </div>
       <!-- .container --> </div>
